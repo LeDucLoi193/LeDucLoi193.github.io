@@ -32,7 +32,6 @@
 #main {
 	margin-top: 10px; 
 	width: 780px;
-	height: 3040px;
 	float: left;
 }
 
@@ -56,7 +55,6 @@
 	background: #3581dd;
 	width: 100%;
 	height: 100%;
-	float: left;
 }
 
 #MPH {
@@ -75,43 +73,33 @@
 	background: #3f3e35;
 	width: 100%;
 	height: 100%;
-	float: left;
 }
 
 #mvHot {
 	margin: 10px;
 }
 
-#mvHot div div{
-	height: 200px;
-
-}
-#mvHot div #hot12{
-	height: 200px;
-}
-#mvHot div #hot12 div {
+#hot12 div {
 	padding: 10px;
 	width: 50%;
+	height: 200px;
 	float: left;
 }
-#mvHot div #hot12 div div {
+#hot12 div div {
 	width: 100%;
 	height: 100%;
-	float: left;
 	background: #4A2C28;
 }
-#hotConLai {
-	height: 200px;
-}
+ 
 #hotConLai div {
 	padding: 10px;
+	height: 100px;
 	width: 25%;
 	float: left;
 }
 #hotConLai div div {
 	width: 100%;
-	height: 70%;
-	float: left;
+	height: 100%;
 	background: #333458;
 }
 
